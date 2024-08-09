@@ -9,8 +9,7 @@ Lab3.v1i.yolokeras/
 *.fdb_latexmk                                                  
 *.fls                                                          
 *.log                                                          
-*.out                                                          
-*.pdf                                                          
+*.out                                                                                                                    
 *.synctex.gz                                                   
 *.tex                                                          
 MaskF1_curve.png                                                     
